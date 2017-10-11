@@ -1,6 +1,6 @@
 	#include "FileReader.h"
 #include <System.h>
-#include "DssApp.h"
+ 
 #include <SpinLock.h>
 #include "EventMonitor.h"
 #define  MODULE_NAME   "FileReader" 
